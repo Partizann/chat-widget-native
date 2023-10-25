@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "query-string": "^6.13.1",
-    "react-native-webview": "^10.6.0"
+    "react-native-webview": "^13.6.2"
   },
   "devDependencies": {
     "@react-native-community/bob": "^0.16.2",
